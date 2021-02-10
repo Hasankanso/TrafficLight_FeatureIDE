@@ -1,5 +1,5 @@
 # TrafficLightFeatureIDE
-this is a demonstration on how to use [feature IDE](https://featureide.github.io/) on eclipse, refining classes based on activated features, composing features based on feature selection,
+This is a demonstration on how to use [feature IDE](https://featureide.github.io/) on eclipse, refining classes on feature-level, composing features based on feature selection...
 
 # Prepare
 1. Install eclipse
